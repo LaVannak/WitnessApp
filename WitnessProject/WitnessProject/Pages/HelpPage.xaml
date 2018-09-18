@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WitnessProject.Pages.HelpPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image HeightRequest="80" WidthRequest="80" Source="helpsupport"/>
+            <Label Text="THE Liberal Party has become a demolition derby with all senior figures' reputations dented 
+                   and no opportunity for unity escaping a side-swipe." TextColor="#A5A7AH" FontSize="Small" Margin="10,10,0,0"/>
+            <Label Text="And the bad news for Scott Morrison is there are several laps to go 
+                   in this race with a packed field of full-throttle egos" TextColor="#A5A7AH" FontSize="Small" Margin="10,20,0,0"/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

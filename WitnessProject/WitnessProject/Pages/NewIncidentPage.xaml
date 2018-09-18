@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WitnessProject.Pages.NewIncidentPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="40,10,40,0">
+                <StackLayout>
+                    <Entry Placeholder="Incident Title"/>
+                    <Label Text="Description:" FontSize="Medium"></Label>
+                    <Editor  HeightRequest="100"/>
+                </StackLayout>
+                <StackLayout >
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="0.8*"/>
+                            <ColumnDefinition Width="0.2*"/>
+                        </Grid.ColumnDefinitions>
+                        <Entry Placeholder="Location" HeightRequest="40" Grid.Column="0"/>
+                        <Image Source="globe" HeightRequest="40" Grid.Column="1"/>
+                    </Grid>
+                </StackLayout>
+                <StackLayout>
+                    <DatePicker></DatePicker>
+                </StackLayout>
+                <StackLayout >
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="0.8*"/>
+                            <ColumnDefinition Width="0.2*"/>
+                        </Grid.ColumnDefinitions>
+                        <Image Source=""></Image>
+                        <Image Source="camera" HeightRequest="40" Grid.Column="1"/>
+                    </Grid>
+                </StackLayout>
+
+                <StackLayout >
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="0.4*"/>
+                            <ColumnDefinition Width="0.2*"/>
+                            <ColumnDefinition Width="0.4*"/>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="btnDraf" Text="Save to Draft" Grid.Column="0"/>
+                        <Button x:Name="btnSend" Text="Send" Grid.Column="2"/>
+                    </Grid>
+                </StackLayout>
+
+            </StackLayout>
+        </ScrollView>
+        
+        
+    </ContentPage.Content>
+</ContentPage>
