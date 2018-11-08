@@ -1,0 +1,6 @@
+Microsoft Azure:
+
+SQL Server:
+Server Name: witnessserver
+admin login: vannak
+password   :Password123

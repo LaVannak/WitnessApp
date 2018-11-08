@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="WitnessAPIContext-Web.config Connection String" description="WitnessAPIContext Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:witnessserver.database.windows.net,1433;Initial Catalog=witness;Persist Security Info=False;User ID=vannak;Password=Password123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\WitnessProject\\WitnessAPI\\WitnessAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='WitnessAPIContext']/@connectionString" />
+  </parameter>
+</parameters>
