@@ -13,11 +13,11 @@
 namespace WitnessProject.Pages {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("F:\\WitnessProject\\WitnessProject\\WitnessProject\\WitnessProject\\Pages\\HelpPage.xam" +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\WitnessProject\\WitnessProject\\WitnessProject\\WitnessProject\\Pages\\HelpPage.xam" +
         "l")]
     public partial class HelpPage : global::Xamarin.Forms.ContentPage {
         
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(HelpPage));
         }

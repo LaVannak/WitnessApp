@@ -12,6 +12,7 @@ namespace WitnessProject
 		public MainPage()
 		{
 			InitializeComponent();
+
 		}
 	}
 }

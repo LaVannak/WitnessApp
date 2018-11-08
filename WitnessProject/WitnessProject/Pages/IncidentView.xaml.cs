@@ -10,7 +10,7 @@ using Xamarin.Forms.Xaml;
 namespace WitnessProject.Pages
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class IncidentView : ContentPage
+	public partial class IncidentView : TabbedPage
 	{
 		public IncidentView ()
 		{

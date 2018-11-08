@@ -1,15 +1,142 @@
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\WitnessProject.Android.csprojAssemblyReference.cache
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\App.xaml.g.cs
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\MainPage.xaml.g.cs
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\WitnessProject.Android.csproj.CoreCompileInputs.cache
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\SignInPage.xaml.g.cs
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\WitnessProject.Android.dll
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\WitnessProject.Android.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\WitnessProject.Android.dll
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\WitnessProject.Android.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\com.companyname.WitnessProject.apk
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\com.companyname.WitnessProject-Signed.apk
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\WitnessProject.Android.csprojAssemblyReference.cache
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\App.xaml.g.cs
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\MainPage.xaml.g.cs
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\SignInPage.xaml.g.cs
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\SignUpPage.xaml.g.cs
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\HomePage.xaml.g.cs
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\HelpPage.xaml.g.cs
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\IncidentView.xaml.g.cs
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\NewIncidentPage.xaml.g.cs
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\WitnessProject.Android.csproj.CoreCompileInputs.cache
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XamlC.stamp
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\WitnessProject.Android.dll
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\WitnessProject.Android.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\bin\com.companyname.WitnessProject.apk
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\layout\tabbar.xml
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\layout\toolbar.xml
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\values\styles.xml
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\values\colors.xml
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\mipmap-hdpi\icon.png
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\mipmap-mdpi\icon.png
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\drawable\lineh.png
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\drawable\linev.png
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\drawable\info.png
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\drawable\helpsupport.png
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\drawable\globe.png
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\drawable\camera.png
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\R.cs.flag
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\R.txt
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\uploadflags.txt
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\Mono.Android.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\Mono.Security.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\mscorlib.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.ComponentModel.Composition.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Core.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Data.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.IO.Compression.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Net.Http.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Numerics.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Numerics.Vectors.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Runtime.Serialization.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.ServiceModel.Internals.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Transactions.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Web.Services.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Xml.Linq.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Xml.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\WitnessProject.Android.dll.mdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\WitnessProject.Android.dll.mdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\Mono.Android.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\Mono.Security.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\mscorlib.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Core.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Data.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Net.Http.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Numerics.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Numerics.Vectors.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Transactions.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Web.Services.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Xml.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\WitnessProject.Android.dll.mdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\Mono.Android.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\Mono.Security.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\mscorlib.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Core.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Data.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Net.Http.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Numerics.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Numerics.Vectors.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Transactions.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Web.Services.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Xml.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+E:\WitnessProject - V1\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\WitnessProject.Android.dll
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\WitnessProject.Android.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\com.companyname.WitnessProject.apk
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\com.companyname.WitnessProject-Signed.apk
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XbdMerge\proguard\dc663e480.txt
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XbdMerge\dc663e48.proguard.stamp
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XbdMerge\0757626b.proguard.stamp
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XbdMerge\2f4d086a.proguard.stamp
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XbdMerge\ea5c07c4.proguard.stamp
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\App.xaml.g.cs
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\MainPage.xaml.g.cs
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\SignInPage.xaml.g.cs
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\SignUpPage.xaml.g.cs
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\HomePage.xaml.g.cs
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\HelpPage.xaml.g.cs
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\NewIncidentPage.xaml.g.cs
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\IncidentMapView.xaml.g.cs
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\IncidentListView.xaml.g.cs
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\IncidentView.xaml.g.cs
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\WitnessProject.Android.csproj.CoreCompileInputs.cache
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XamlC.stamp
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\WitnessProject.Android.dll
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\WitnessProject.Android.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\bin\com.companyname.WitnessProject.apk
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\layout\tabbar.xml
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\layout\toolbar.xml
@@ -27,6 +154,12 @@ E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\drawable\lineh.png
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\drawable\linev.png
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\drawable\info.png
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\drawable\helpsupport.png
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\drawable\globe.png
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\drawable\camera.png
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\R.cs.flag
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\R.txt
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\uploadflags.txt
@@ -34,12 +167,13 @@ E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\mscorlib.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Core.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.pdb
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Numerics.pdb
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Numerics.Vectors.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Xml.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Xml.Linq.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\Xamarin.Forms.Core.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Data.pdb
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Numerics.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Transactions.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.IO.Compression.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
@@ -53,12 +187,13 @@ E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\mscorlib.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Core.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.pdb
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Numerics.pdb
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Numerics.Vectors.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Xml.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Data.pdb
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Numerics.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Transactions.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.IO.Compression.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
@@ -87,6 +222,7 @@ E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.IO.Compression.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Net.Http.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Numerics.pdb
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Numerics.Vectors.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
@@ -96,30 +232,30 @@ E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Xml.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
 E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\SignUpPage.xaml.g.cs
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\HomePage.xaml.g.cs
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\drawable\lineh.png
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\drawable\linev.png
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\drawable\info.png
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\HelpPage.xaml.g.cs
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\drawable\helpsupport.png
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\IncidentView.xaml.g.cs
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\NewIncidentPage.xaml.g.cs
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\drawable\globe.png
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\res\drawable\camera.png
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\WitnessProject.Android.dll
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\WitnessProject.Android.pdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\com.companyname.WitnessProject.apk
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\com.companyname.WitnessProject-Signed.apk
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\WitnessProject.Android.csprojAssemblyReference.cache
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XbdMerge\proguard\dc663e480.txt
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XbdMerge\dc663e48.proguard.stamp
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XbdMerge\0757626b.proguard.stamp
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XbdMerge\2f4d086a.proguard.stamp
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XbdMerge\ea5c07c4.proguard.stamp
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\App.xaml.g.cs
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\MainPage.xaml.g.cs
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\SignInPage.xaml.g.cs
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\SignUpPage.xaml.g.cs
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\HomePage.xaml.g.cs
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\HelpPage.xaml.g.cs
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\IncidentView.xaml.g.cs
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\NewIncidentPage.xaml.g.cs
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\IncidentMapView.xaml.g.cs
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\IncidentListView.xaml.g.cs
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\Pages\IncidentView.xaml.g.cs
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\WitnessProject.Android.csproj.CoreCompileInputs.cache
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\XamlC.stamp
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\WitnessProject.Android.dll
@@ -151,27 +287,51 @@ F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\R.txt
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\uploadflags.txt
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\Mono.Android.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\Mono.Security.pdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\mscorlib.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.ComponentModel.Composition.pdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Core.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Data.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.IO.Compression.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Net.Http.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Numerics.pdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Runtime.Serialization.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.ServiceModel.Internals.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Transactions.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Web.Services.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Xml.Linq.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Numerics.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Numerics.Vectors.pdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Xml.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Xml.Linq.pdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\Xamarin.Forms.Core.pdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Data.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Transactions.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.IO.Compression.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.ComponentModel.Composition.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Net.Http.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Runtime.Serialization.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.ServiceModel.Internals.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\System.Web.Services.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\Mono.Security.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\Mono.Android.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\mscorlib.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Core.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Numerics.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Numerics.Vectors.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Xml.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Data.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Transactions.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Net.Http.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Web.Services.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\Mono.Security.pdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\FormsViewGroup.dll.mdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\WitnessProject.Android.dll.mdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\WitnessProject.Android.dll.mdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\WitnessProject.Android.dll.mdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\WitnessProject.Android.dll.mdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
@@ -185,6 +345,7 @@ F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.IO.Compression.pdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Net.Http.pdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Numerics.pdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Numerics.Vectors.pdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.pdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
@@ -194,29 +355,7 @@ F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\System.Xml.pdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\WitnessProject.Android.dll
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\WitnessProject.Android.dll.mdb
+F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
 F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\Mono.Android.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\Mono.Security.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\mscorlib.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Core.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Data.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.IO.Compression.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Net.Http.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Numerics.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Transactions.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Web.Services.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\System.Xml.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
-F:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\bin\Debug\WitnessProject.Android.dll
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\WitnessProject.Android.dll.mdb
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
-E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

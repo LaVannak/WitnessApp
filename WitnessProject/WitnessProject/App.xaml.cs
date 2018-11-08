@@ -8,12 +8,16 @@ namespace WitnessProject
 {
 	public partial class App : Application
 	{
-		public App ()
+        public static double ScreenWidth { get; internal set; }
+        public static double ScreenHeight { get; internal set; }
+
+        public App (string getEmail)
 		{
 			InitializeComponent();
 
-			//MainPage = new NavigationPage (new SignInPage());
-            MainPage = new NavigationPage(new HomePage());
+            //MainPage = new NavigationPage (new SignInPage());
+            MainPage = new NavigationPage(new HomePage(getEmail));
+            //MainPage = new NavigationPage(new IncidentListView());
         }
 
 		protected override void OnStart ()
