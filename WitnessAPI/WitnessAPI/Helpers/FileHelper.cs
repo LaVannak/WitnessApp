@@ -8,7 +8,7 @@ namespace WitnessAPI.Helpers
 {
     public class FileHelper
     {
-        public static bool UploadPhoto( MemoryStream menStream, string folderName, string fileName)
+        public static bool UploadPhoto(MemoryStream menStream, string folderName, string fileName)
         {
             try
             {

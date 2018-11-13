@@ -19,8 +19,8 @@ namespace WitnessAPI.Models
         {
         }
 
-        public System.Data.Entity.DbSet<WitnessAPI.Models.Witness> Witnesses { get; set; }
+        public System.Data.Entity.DbSet<WitnessAPI.Models.Witnes> Witnes { get; set; }
 
-        public System.Data.Entity.DbSet<WitnessAPI.Models.Incidents> Incidents { get; set; }
+        public System.Data.Entity.DbSet<WitnessAPI.Models.Incident> Incidents { get; set; }
     }
 }

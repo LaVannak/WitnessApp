@@ -1,3 +1,4 @@
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\ApplicationInsights.config
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\WitnessAPI.dll.config
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\WitnessAPI.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\WitnessAPI.pdb
@@ -18,28 +19,25 @@ G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\Microsoft.DiaSymReader.Native
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\Microsoft.Managed.Core.targets
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
-G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.AppContext.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Collections.Immutable.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Console.dll
-G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
-G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Globalization.Calendars.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.IO.Compression.dll
-G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.IO.FileSystem.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
-G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Net.Http.dll
-G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Net.Sockets.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.IO.Pipes.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Reflection.Metadata.dll
-G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Security.AccessControl.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Security.Claims.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Security.Principal.Windows.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
-G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.ValueTuple.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Xml.ReaderWriter.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\System.Xml.XmlDocument.dll
@@ -50,22 +48,155 @@ G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\vbc.exe.config
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\vbc.rsp
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\VBCSCompiler.exe
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\roslyn\VBCSCompiler.exe.config
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Antlr3.Runtime.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\EntityFramework.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\EntityFramework.SqlServer.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Microsoft.AI.Agent.Intercept.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Microsoft.AI.DependencyCollector.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Microsoft.AI.Web.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Microsoft.AI.WindowsServer.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Microsoft.ApplicationInsights.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Microsoft.Web.Infrastructure.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Newtonsoft.Json.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Diagnostics.DiagnosticSource.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Net.Http.Formatting.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Web.Helpers.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Web.Http.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Web.Http.WebHost.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Web.Mvc.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Web.Optimization.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Web.Razor.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Web.WebPages.Deployment.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Web.WebPages.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Web.WebPages.Razor.dll
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\WebGrease.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\EntityFramework.xml
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\EntityFramework.SqlServer.xml
-G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Newtonsoft.Json.xml
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Net.Http.Formatting.xml
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Web.Helpers.xml
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Web.Http.xml
 G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Web.Http.WebHost.xml
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Web.Mvc.xml
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Web.Optimization.xml
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Web.Razor.xml
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Web.WebPages.xml
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Web.WebPages.Deployment.xml
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Web.WebPages.Razor.xml
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Antlr3.Runtime.pdb
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\System.Diagnostics.DiagnosticSource.xml
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Microsoft.AI.DependencyCollector.xml
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Microsoft.AI.WindowsServer.xml
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Microsoft.AI.Web.xml
+G:\WitnessProject\WitnessAPI\WitnessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 G:\WitnessProject\WitnessAPI\WitnessAPI\obj\Debug\WitnessAPI.csproj.CoreCompileInputs.cache
 G:\WitnessProject\WitnessAPI\WitnessAPI\obj\Debug\WitnessAPI.csproj.CopyComplete
 G:\WitnessProject\WitnessAPI\WitnessAPI\obj\Debug\WitnessAPI.dll
 G:\WitnessProject\WitnessAPI\WitnessAPI\obj\Debug\WitnessAPI.pdb
 G:\WitnessProject\WitnessAPI\WitnessAPI\obj\Debug\WitnessAPI.csprojAssemblyReference.cache
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\ApplicationInsights.config
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\WitnessAPI.dll.config
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\WitnessAPI.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\WitnessAPI.pdb
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\csc.exe
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\csc.exe.config
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\csc.rsp
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\csi.exe
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\csi.exe.config
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\csi.rsp
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\Microsoft.Managed.Core.targets
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.AppContext.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.Collections.Immutable.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.Console.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.IO.Compression.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.IO.FileSystem.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.IO.Pipes.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.Reflection.Metadata.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.Security.AccessControl.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.Security.Claims.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.Security.Principal.Windows.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.ValueTuple.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.Xml.XmlDocument.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.Xml.XPath.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\vbc.exe
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\vbc.exe.config
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\vbc.rsp
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\VBCSCompiler.exe
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\roslyn\VBCSCompiler.exe.config
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Antlr3.Runtime.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\EntityFramework.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\EntityFramework.SqlServer.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Microsoft.AI.Agent.Intercept.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Microsoft.AI.DependencyCollector.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Microsoft.AI.Web.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Microsoft.AI.WindowsServer.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Microsoft.ApplicationInsights.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Microsoft.Web.Infrastructure.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Newtonsoft.Json.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Diagnostics.DiagnosticSource.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Net.Http.Formatting.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Web.Helpers.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Web.Http.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Web.Http.WebHost.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Web.Mvc.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Web.Optimization.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Web.Razor.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Web.WebPages.Deployment.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Web.WebPages.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Web.WebPages.Razor.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\WebGrease.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\EntityFramework.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\EntityFramework.SqlServer.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Newtonsoft.Json.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Net.Http.Formatting.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Web.Helpers.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Web.Http.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Web.Http.WebHost.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Web.Mvc.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Web.Optimization.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Web.Razor.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Web.WebPages.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Web.WebPages.Deployment.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Web.WebPages.Razor.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Antlr3.Runtime.pdb
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\System.Diagnostics.DiagnosticSource.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Microsoft.AI.DependencyCollector.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Microsoft.AI.WindowsServer.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Microsoft.AI.Web.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\obj\Debug\WitnessAPI.csproj.CoreCompileInputs.cache
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\obj\Debug\WitnessAPI.csproj.CopyComplete
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\obj\Debug\WitnessAPI.dll
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\obj\Debug\WitnessAPI.pdb
+G:\WitnessProject\WitnessAPI - 1\WitnessAPI\obj\Debug\WitnessAPI.csprojAssemblyReference.cache

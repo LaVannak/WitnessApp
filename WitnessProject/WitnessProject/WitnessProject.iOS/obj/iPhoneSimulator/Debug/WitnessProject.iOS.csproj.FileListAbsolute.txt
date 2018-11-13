@@ -1,0 +1,16 @@
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.iOS\obj\iPhoneSimulator\Debug\optimized\
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.iOS\obj\iPhoneSimulator\Debug\App.xaml.g.cs
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.iOS\obj\iPhoneSimulator\Debug\MainPage.xaml.g.cs
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.iOS\obj\iPhoneSimulator\Debug\Pages\SignInPage.xaml.g.cs
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.iOS\obj\iPhoneSimulator\Debug\Pages\SignUpPage.xaml.g.cs
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.iOS\obj\iPhoneSimulator\Debug\Pages\HomePage.xaml.g.cs
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.iOS\obj\iPhoneSimulator\Debug\Pages\HelpPage.xaml.g.cs
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.iOS\obj\iPhoneSimulator\Debug\Pages\IncidentView.xaml.g.cs
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.iOS\obj\iPhoneSimulator\Debug\Pages\NewIncidentPage.xaml.g.cs
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.iOS\obj\iPhoneSimulator\Debug\WitnessProject.iOS.csproj.CoreCompileInputs.cache
+E:\WitnessProject\WitnessProject\WitnessProject\WitnessProject.iOS\obj\iPhoneSimulator\Debug\WitnessProject.iOS.csprojAssemblyReference.cache
